@@ -7,8 +7,14 @@ Link a la página para el flasheo: https://ledfacil.github.io/ESP-WEB-Flash/
 
 Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el menú que se despliega seleccionar "Download ZIP".
 
-Si te sirvió para algún proyecto, no estaría demás dejar algún comentario al respecto o link a este repo y/o a los videos...
+📌Si compartís, por favor respetá la autoría de este contenido, sería un buen gesto dejar un enlace al repo. 😉
 
-Éxito con tu propia experiencia y de nada eh! ;-)
+📌Podés encontrarme [acá](https://lasso-tech.com/contacto/).
 
-Damián G. Lasso -> https://ledfacil.com.ar/ & https://lasso-tech.com/
+📌Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el menú que se despliega seleccionar "Download ZIP".
+
+💪 Éxito con eso!!!
+
+---
+
+### 🤓 By **Damián G. Lasso** 🌐 [LASSO-TECH](https://lasso-tech.com/) Electrónica aplicada & soluciones.
